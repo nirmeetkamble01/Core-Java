@@ -11,6 +11,7 @@ for(i=0;i<6;i++)
 {
     num[i] =s1.nextInt();
 }
+    //what is this number doing here?
 1
 }
 
